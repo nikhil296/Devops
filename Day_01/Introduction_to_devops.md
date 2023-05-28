@@ -21,6 +21,7 @@
         - Whenever changes are committed to the repository, a build process is triggered automatically. The build process involves compiling the code, resolving dependencies, and generating executable files or artifacts. This process ensures that the codebase is always in a buildable state.
         <details>
         <summary> Artifacts </summary>
+        
         - In the context of Continuous Integration (CI), an artifact refers to a deliverable that is generated as a result of the build and testing process. 
         - It is a tangible output produced by the CI system, which can be used for various purposes such as deployment, testing, or release.
         - Here are a few examples of artifacts commonly generated in CI :
